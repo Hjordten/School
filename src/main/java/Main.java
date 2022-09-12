@@ -7,5 +7,9 @@ public class Main {
         System.out.println(p1.getHoejde());
         System.out.println("");
         System.out.println(p1.beregnBMI());
+        System.out.println("");
+        p1.harFødselsdag();
+        System.out.println("");
+        System.out.println(p1.getAlder());
     }
 }
